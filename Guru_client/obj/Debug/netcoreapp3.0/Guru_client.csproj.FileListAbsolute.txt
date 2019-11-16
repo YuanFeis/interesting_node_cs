@@ -1,0 +1,11 @@
+D:\Users\Administrator\source\repos\Guru_client\bin\Debug\netcoreapp3.0\Guru_client.exe
+D:\Users\Administrator\source\repos\Guru_client\bin\Debug\netcoreapp3.0\Guru_client.deps.json
+D:\Users\Administrator\source\repos\Guru_client\bin\Debug\netcoreapp3.0\Guru_client.runtimeconfig.json
+D:\Users\Administrator\source\repos\Guru_client\bin\Debug\netcoreapp3.0\Guru_client.runtimeconfig.dev.json
+D:\Users\Administrator\source\repos\Guru_client\bin\Debug\netcoreapp3.0\Guru_client.dll
+D:\Users\Administrator\source\repos\Guru_client\bin\Debug\netcoreapp3.0\Guru_client.pdb
+D:\Users\Administrator\source\repos\Guru_client\obj\Debug\netcoreapp3.0\Guru_client.AssemblyInfoInputs.cache
+D:\Users\Administrator\source\repos\Guru_client\obj\Debug\netcoreapp3.0\Guru_client.AssemblyInfo.cs
+D:\Users\Administrator\source\repos\Guru_client\obj\Debug\netcoreapp3.0\Guru_client.dll
+D:\Users\Administrator\source\repos\Guru_client\obj\Debug\netcoreapp3.0\Guru_client.pdb
+D:\Users\Administrator\source\repos\Guru_client\obj\Debug\netcoreapp3.0\Guru_client.csprojAssemblyReference.cache
